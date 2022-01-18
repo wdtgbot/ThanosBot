@@ -1,10 +1,10 @@
 <h1 align="center">
-<b>THANOS USERBOT</b>
+<b>thคຖ໐Ş-4</b>
 </h1>
 <p align="center">
   <img src="https://telegra.ph/file/96c7031243c9bbaab31eb.jpg" alt="The-PANTHERS BOT">
 
-𝙱𝙴𝚂𝚃  𝙰𝙽𝙳  𝙼𝙾𝚂𝚃  𝙰𝚆𝙰𝙸𝚃𝙴𝙳  𝚄𝚂𝙴𝚁𝙱𝙾𝚃  𝚃𝙾  𝙼𝙰𝙽𝙰𝙶𝙴  𝚈𝙾𝚄𝚁  𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 </p>
+ᴮᴱˢᵀ ᴬᴺᴰ ᴹᴼˢᵀ ᴬᵂᴬᴵᵀᴱᴰ ᵁˢᴱᴿᴮᴼᵀ ᵀᴼ ᴹᴬᴺᴬᴳᴱ ʸᴼᵁᴿ ᴬᶜᶜᴼᵁᴺᵀ ᵂᴵᵀᴴ ᴸᵁˣᵁᴿᴵᴼᵁˢ ᶠᴱᴬᵀᵁᴿᴱ ᶜᴼᴹᴾᴬᴿᴱᴰ ᵀᴼ ᴬᴺʸ ᴼᵀᴴᴱᴿ ᴮᴼᵀˢ..ᴬᴸˢᴼ ᵂᴵᵀᴴ ˢᴱᶜᵁᴿᴵᵀʸ ᶠᴱᴬᵀᵁᴿᴱ </p>
 
 -----
 
@@ -17,13 +17,13 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-- <a href="https://t.me/thanos_userbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-- <a href="https://t.me/thanosbot_chats"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/thanos_userbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-blue.svg?logo=Telegram"></a>
+- <a href="https://t.me/thanosbot_chats"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-blue.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/thanosuser/ThanosBot-v3.0" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
+<a href="https://heroku.com/deploy?template=https://github.com/QUEENPRIYAOP/THANOS-V4" target="_blank"><img src="https://img.shields.io/badge/ＤΞＰＬ♢Ｙ%20ＴＨΛＮ♢Ｓ%20√４-blue?style=for-the-badge&logo=heroku" 
 height="40px" width="200px" alt="heroku" /></a>
 
 ------------------------------------------------
@@ -38,7 +38,7 @@ height="40px" width="200px" alt="heroku" /></a>
 - Your Deadly Bot Session Will be saved in your Telegram Saved Message.
 
 ## 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 
-   <a href="https://replit.com/@mafiarishabh/THANOS?v=1" target="_blank"><img src="https://img.shields.io/badge/run-string%20session-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+   <a href="https://replit.com/@mafiarishabh/THANOS?v=1" target="_blank"><img src="https://img.shields.io/badge/run-thanos%20session-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
     
 -------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
