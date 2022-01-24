@@ -12,6 +12,7 @@
 ------
 
 ## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [RISHABH](https://t.me/MAFIARISHABH)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [PRIYA](https://t.me/PRIYAOS)
 
 ---------------
 
