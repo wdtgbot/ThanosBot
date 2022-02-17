@@ -11,15 +11,15 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [RISHABH](https://t.me/MAFIARISHABH)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [PRIYA](https://t.me/PRIYAOS)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [Abhijeet](https://t.me/prkboltipublic)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [ROCKEY](https://t.me/ROCKEY_BHAI_12)
 
 ---------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-- <a href="https://t.me/thanos_userbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-blue.svg?logo=Telegram"></a>
-- <a href="https://t.me/thanosbot_chats"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-blue.svg?logo=Telegram"></a>
+- <a href="https://t.me/+cJG1PbKtpPVmNDg5"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-blue.svg?logo=Telegram"></a>
+- <a href="https://t.me/+cJG1PbKtpPVmNDg5"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-blue.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
