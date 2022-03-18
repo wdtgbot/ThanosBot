@@ -11,8 +11,8 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [Abhijeet](https://t.me/prkboltipublic)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [ROCKEY](https://t.me/ROCKEY_BHAI_12)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [ABHIJEET](https://t.me/prkboltipublic)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [BATTLEFIELD](https://t.me/ROCKEY_BHAI_12)
 
 ---------------
 
